@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akira</h1>
+<h1 align="center">Hi 👋, I'm ruv</h1>
 <h3 align="center">A passionate beginner python developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akira7105&label=Profile%20views&color=0e75b6&style=flat" alt="akira7105" /> </p>
