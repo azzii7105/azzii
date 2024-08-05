@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me on Discord: **rec.0613**
+- 📫 How to reach me on Discord: **its.ruv**
 
 - ⚡ Fun fact **I started coding for fun**
 
