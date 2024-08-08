@@ -23,7 +23,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rewiindz&show_icons=true&locale=en&layout=compact" alt="rewiindz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akira7105&show_icons=true&locale=en" alt="akira7105" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rewiindz&show_icons=true&locale=en" alt="rewiindz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akira7105&" alt="akira7105" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rewiindz&" alt="akira7105" /></p>
 
